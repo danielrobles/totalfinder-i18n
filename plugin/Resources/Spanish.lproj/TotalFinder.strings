@@ -1,7 +1,7 @@
 /* TotalFinder Status Menu Item */
 "Check for Updates" = "Comprobar actualizaciones";
 "Uninstall TotalFinder" = "Desinstalar TotalFinder";
-"Restart Finder" = "Reiniciar el Finder";
+"Restart Finder" = "Reiniciar Finder";
 "Show Visor" = "Mostrar Visor";
 "Hide Visor" = "Ocultar Visor";
 
@@ -23,7 +23,7 @@
 
 /* Unistall Alert Box */
 "Uninstall" = "Desinstalar";
-"Really want to uninstall TotalFinder?" = "¿Está seguro de que desea desinstalar TotalFinder?";
+"Really want to uninstall TotalFinder?" = "¿Seguro que desea desinstalar TotalFinder?";
 "This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Esta operación eliminará TotalFinder de este ordenador y restaurará el comportamiento original del Finder.";
 
 /* MainMenu items */
